@@ -29,7 +29,7 @@
     <!--<plugin name="cordova-plugin-wkwebview-engine" spec="~1.0.1" />-->
 
      <platform name="android">
-<icon src="res/icon/android/drawable-xxxhdpi-icon.png" density="xxxhdpi" />
+
      <!--
         <icon src="res/icon/android/drawable-ldpi-icon.png" density="ldpi" />
         <icon src="res/icon/android/drawable-mdpi-icon.png" density="mdpi" />
